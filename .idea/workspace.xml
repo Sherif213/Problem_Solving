@@ -10,7 +10,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cb7dc80f-dfdd-452c-b9b3-ce0d24f0690a" name="Changes" comment="initial_commit">
+      <change afterPath="$PROJECT_DIR$/CodeForce/Ranked_800/contest_427_problem_A.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeForce/Ranked_800/contest_266_problem_A.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/CodeForce/Ranked_800/contest_266_problem_A.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +25,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -32,29 +37,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Problem_Solving&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "C/C++ File.contest_266_problem_A.cpp.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/Problem_Solving",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "CMakeSettings",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
-    <configuration name="contest_266_problem_A.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Problem_Solving" TARGET_NAME="contest_266_problem_A.cpp" CONFIG_NAME="contest_266_problem_A.cpp">
+    <configuration name="contest_266_problem_A.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Problem_Solving" TARGET_NAME="contest_266_problem_A.cpp - MinGW" CONFIG_NAME="contest_266_problem_A.cpp">
       <option name="sourceFile" value="CodeForce\Ranked_800\contest_266_problem_A.cpp" />
+      <option name="toolchainName" value="MinGW" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -71,7 +78,8 @@
       <workItem from="1728755495521" duration="159000" />
       <workItem from="1728755694982" duration="844000" />
       <workItem from="1728756544037" duration="6000" />
-      <workItem from="1728756556941" duration="935000" />
+      <workItem from="1728756556941" duration="2033000" />
+      <workItem from="1728817966894" duration="1706000" />
     </task>
     <task id="LOCAL-00001" summary="initial_commit">
       <option name="closed" value="true" />
@@ -89,7 +97,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728756855002</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="initial_commit">
+      <option name="closed" value="true" />
+      <created>1728757763064</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1728757763064</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
