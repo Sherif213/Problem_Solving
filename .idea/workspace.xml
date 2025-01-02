@@ -9,10 +9,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb7dc80f-dfdd-452c-b9b3-ce0d24f0690a" name="Changes" comment="initial_commit">
-      <change afterPath="$PROJECT_DIR$/CodeForce/Ranked_800/contest_427_problem_A.cpp" afterDir="false" />
+    <list default="true" id="cb7dc80f-dfdd-452c-b9b3-ce0d24f0690a" name="Changes" comment="Solving Problem A from Contest 427">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeForce/Ranked_800/contest_266_problem_A.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/CodeForce/Ranked_800/contest_266_problem_A.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,8 +46,7 @@
     "WebServerToolWindowFactoryState": "false",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/Problem_Solving",
+    "last_opened_file_path": "D:/SelfLearning/Lab_One_Cpp",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -80,6 +78,9 @@
       <workItem from="1728756544037" duration="6000" />
       <workItem from="1728756556941" duration="2033000" />
       <workItem from="1728817966894" duration="1706000" />
+      <workItem from="1728821026464" duration="591000" />
+      <workItem from="1734636804158" duration="25000" />
+      <workItem from="1734636958202" duration="33000" />
     </task>
     <task id="LOCAL-00001" summary="initial_commit">
       <option name="closed" value="true" />
@@ -105,7 +106,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728757763064</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Solving Problem A from Contest 427">
+      <option name="closed" value="true" />
+      <created>1728821063358</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1728821063358</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,7 +145,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial_commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial_commit" />
+    <MESSAGE value="Solving Problem A from Contest 427" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solving Problem A from Contest 427" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
