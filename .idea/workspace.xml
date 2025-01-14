@@ -9,10 +9,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb7dc80f-dfdd-452c-b9b3-ce0d24f0690a" name="Changes" comment="Solving Problem A from Contest 71 A">
-      <change afterPath="$PROJECT_DIR$/CodeForce/Ranked_800/contest_686_problem_A.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cb7dc80f-dfdd-452c-b9b3-ce0d24f0690a" name="Changes" comment="Solving Problem A from Contest 69 A" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,7 +84,7 @@
       <workItem from="1736131795272" duration="658000" />
       <workItem from="1736249051541" duration="1476000" />
       <workItem from="1736294955085" duration="2087000" />
-      <workItem from="1736872206758" duration="37000" />
+      <workItem from="1736872206758" duration="915000" />
     </task>
     <task id="LOCAL-00001" summary="initial_commit">
       <option name="closed" value="true" />
@@ -177,7 +174,31 @@
       <option name="project" value="LOCAL" />
       <updated>1736295232664</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Solving Problem A from Contest 686 A">
+      <option name="closed" value="true" />
+      <created>1736872294442</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1736872294442</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Solving Problem A from Contest 686 A">
+      <option name="closed" value="true" />
+      <created>1736872331555</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1736872331555</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Solving Problem A from Contest 69 A">
+      <option name="closed" value="true" />
+      <created>1736872523989</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1736872523989</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -215,7 +236,9 @@
     <MESSAGE value="Solving Problem A from Contest 799 A" />
     <MESSAGE value="Solving Problem A from Contest 443 A" />
     <MESSAGE value="Solving Problem A from Contest 71 A" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solving Problem A from Contest 71 A" />
+    <MESSAGE value="Solving Problem A from Contest 686 A" />
+    <MESSAGE value="Solving Problem A from Contest 69 A" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solving Problem A from Contest 69 A" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
