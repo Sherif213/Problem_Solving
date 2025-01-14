@@ -32,6 +32,8 @@ int main() {
     }
     cout << packs << " " << count;
     return 0;
+
 }
+
 
 
