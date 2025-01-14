@@ -16,7 +16,6 @@ int main() {
     cin >> sentence;
     int k = 0;
     int count = 0;
-
     for (int i = 0; i < sentence.length(); i++) {
         if (sentence[i] == array[k] && array2[k]<1) {
             array2[k]++;
