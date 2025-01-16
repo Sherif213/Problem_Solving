@@ -9,7 +9,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb7dc80f-dfdd-452c-b9b3-ce0d24f0690a" name="Changes" comment="Solving Problem A from Contest 69 A" />
+    <list default="true" id="cb7dc80f-dfdd-452c-b9b3-ce0d24f0690a" name="Changes" comment="Solving Problem A from Contest 58 A">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +26,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -33,27 +38,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;C/C++ File.contest_266_problem_A.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/SelfLearning/Lab_One_Cpp&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;CMakeSettings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "C/C++ File.contest_266_problem_A.cpp.executor": "Run",
+    "C/C++ File.contest_58_problem_A.cpp.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "D:/SelfLearning/Lab_One_Cpp",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "CMakeSettings",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager">
+}]]></component>
+  <component name="RunManager" selected="C/C++ File.contest_58_problem_A.cpp">
     <configuration name="contest_266_problem_A.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" singleton="false" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Problem_Solving" TARGET_NAME="contest_266_problem_A.cpp - MinGW" CONFIG_NAME="contest_266_problem_A.cpp">
       <option name="sourceFile" value="CodeForce\Ranked_800\contest_266_problem_A.cpp" />
       <option name="toolchainName" value="MinGW" />
@@ -61,6 +67,21 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="contest_58_problem_A.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Problem_Solving" TARGET_NAME="contest_58_problem_A.cpp" CONFIG_NAME="contest_58_problem_A.cpp">
+      <option name="sourceFile" value="CodeForce\Ranked_1000\contest_58_problem_A.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="C/C++ File.contest_266_problem_A.cpp" />
+      <item itemvalue="C/C++ File.contest_58_problem_A.cpp" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="C/C++ File.contest_58_problem_A.cpp" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -84,7 +105,7 @@
       <workItem from="1736131795272" duration="658000" />
       <workItem from="1736249051541" duration="1476000" />
       <workItem from="1736294955085" duration="2087000" />
-      <workItem from="1736872206758" duration="915000" />
+      <workItem from="1736872206758" duration="2429000" />
     </task>
     <task id="LOCAL-00001" summary="initial_commit">
       <option name="closed" value="true" />
@@ -198,7 +219,23 @@
       <option name="project" value="LOCAL" />
       <updated>1736872523989</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Solving Problem A from Contest 69 A">
+      <option name="closed" value="true" />
+      <created>1736889751637</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1736889751637</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Solving Problem A from Contest 58 A">
+      <option name="closed" value="true" />
+      <created>1736889772763</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1736889772763</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -238,7 +275,8 @@
     <MESSAGE value="Solving Problem A from Contest 71 A" />
     <MESSAGE value="Solving Problem A from Contest 686 A" />
     <MESSAGE value="Solving Problem A from Contest 69 A" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solving Problem A from Contest 69 A" />
+    <MESSAGE value="Solving Problem A from Contest 58 A" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solving Problem A from Contest 58 A" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
