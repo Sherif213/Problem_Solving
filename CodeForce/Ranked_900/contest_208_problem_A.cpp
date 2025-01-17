@@ -15,6 +15,7 @@ int main() {
     vector<char>song;
 
     for (int i = 0; i < sentence.length(); i++) {
+        //Usage of condition (i + 2 < sentence.length()) instead of putting it inside the for loop condition to avoid out of range errors
         if (i + 2 < sentence.length() && sentence[i] == 'W' && sentence[i+1] == 'U' && sentence[i+2] == 'B') {
             if (!song.empty() && song.back() != ' ') {
                 song.push_back(' ');
@@ -29,9 +30,9 @@ int main() {
         }
 
     }
-
-    for (int i = 0; i < song.size(); i++) {
-        cout << song[i];
+    //New way of printing a vector;
+    for (char c:song) {
+        cout << c;
     }
     return 0;
 }
