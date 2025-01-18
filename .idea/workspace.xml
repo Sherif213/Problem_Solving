@@ -9,7 +9,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb7dc80f-dfdd-452c-b9b3-ce0d24f0690a" name="Changes" comment="Solving Problem A from Contest 133 A">
+    <list default="true" id="cb7dc80f-dfdd-452c-b9b3-ce0d24f0690a" name="Changes" comment="Solving Problem A from Contest 208 A">
       <change afterPath="$PROJECT_DIR$/CodeForce/Ranked_1200/contest_133_problem_B.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -42,6 +42,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;C/C++ File.contest_133_problem_B.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.contest_208_problem_A.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.contest_266_problem_A.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.contest_58_problem_A.cpp.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
@@ -61,9 +62,15 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="C/C++ File.contest_133_problem_B.cpp">
+  <component name="RunManager" selected="C/C++ File.contest_208_problem_A.cpp">
     <configuration name="contest_133_problem_B.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Problem_Solving" TARGET_NAME="contest_133_problem_B.cpp" CONFIG_NAME="contest_133_problem_B.cpp">
       <option name="sourceFile" value="CodeForce\Ranked_1200\contest_133_problem_B.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="contest_208_problem_A.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Problem_Solving" TARGET_NAME="contest_208_problem_A.cpp" CONFIG_NAME="contest_208_problem_A.cpp">
+      <option name="sourceFile" value="CodeForce\Ranked_900\contest_208_problem_A.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -82,12 +89,14 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="C/C++ File.contest_133_problem_B.cpp" />
       <item itemvalue="C/C++ File.contest_266_problem_A.cpp" />
+      <item itemvalue="C/C++ File.contest_133_problem_B.cpp" />
+      <item itemvalue="C/C++ File.contest_208_problem_A.cpp" />
       <item itemvalue="C/C++ File.contest_58_problem_A.cpp" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.contest_208_problem_A.cpp" />
         <item itemvalue="C/C++ File.contest_133_problem_B.cpp" />
         <item itemvalue="C/C++ File.contest_58_problem_A.cpp" />
       </list>
@@ -117,6 +126,10 @@
       <workItem from="1736294955085" duration="2087000" />
       <workItem from="1736872206758" duration="2429000" />
       <workItem from="1736988383646" duration="1402000" />
+      <workItem from="1737072520810" duration="879000" />
+      <workItem from="1737222656149" duration="31000" />
+      <workItem from="1737222695596" duration="302000" />
+      <workItem from="1737223783006" duration="46000" />
     </task>
     <task id="LOCAL-00001" summary="initial_commit">
       <option name="closed" value="true" />
@@ -254,7 +267,23 @@
       <option name="project" value="LOCAL" />
       <updated>1736988484444</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Solving Problem A from Contest 208 A">
+      <option name="closed" value="true" />
+      <created>1737072589919</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1737072589919</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Solving Problem A from Contest 208 A">
+      <option name="closed" value="true" />
+      <created>1737072795116</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1737072795116</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -296,7 +325,8 @@
     <MESSAGE value="Solving Problem A from Contest 69 A" />
     <MESSAGE value="Solving Problem A from Contest 58 A" />
     <MESSAGE value="Solving Problem A from Contest 133 A" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solving Problem A from Contest 133 A" />
+    <MESSAGE value="Solving Problem A from Contest 208 A" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solving Problem A from Contest 208 A" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
