@@ -12,7 +12,7 @@ int main() {
         if (rating <= 1399) {
             cout << "Division 4" << endl;
         }
-        else if (rating <= 1400 && rating >= 1599)
+        else if (rating >= 1400 && rating <= 1599)
         {
             cout << "Division 3" << endl;
         }
