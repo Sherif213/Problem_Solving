@@ -9,7 +9,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb7dc80f-dfdd-452c-b9b3-ce0d24f0690a" name="Changes" comment="Solving Problem A from Contest 208 A">
+    <list default="true" id="cb7dc80f-dfdd-452c-b9b3-ce0d24f0690a" name="Changes" comment="Solving Problem A from Contest 703">
       <change afterPath="$PROJECT_DIR$/CodeForce/Ranked_1200/contest_133_problem_B.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -130,6 +130,14 @@
       <workItem from="1737222656149" duration="31000" />
       <workItem from="1737222695596" duration="302000" />
       <workItem from="1737223783006" duration="46000" />
+      <workItem from="1737230054167" duration="650000" />
+      <workItem from="1737240461281" duration="674000" />
+      <workItem from="1737337797382" duration="2615000" />
+      <workItem from="1737658165044" duration="364000" />
+      <workItem from="1737740683358" duration="819000" />
+      <workItem from="1737836642777" duration="1304000" />
+      <workItem from="1737936577557" duration="645000" />
+      <workItem from="1738340866250" duration="419000" />
     </task>
     <task id="LOCAL-00001" summary="initial_commit">
       <option name="closed" value="true" />
@@ -283,7 +291,95 @@
       <option name="project" value="LOCAL" />
       <updated>1737072795116</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Solving Problem A from Contest 479 A">
+      <option name="closed" value="true" />
+      <created>1737230224176</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1737230224176</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Solving Problem A from Contest 1742 A">
+      <option name="closed" value="true" />
+      <created>1737240535984</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1737240535984</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Solving Problem A from Contest 155">
+      <option name="closed" value="true" />
+      <created>1737337892140</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1737337892140</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Solving Problem A from Contest 1676">
+      <option name="closed" value="true" />
+      <created>1737416508530</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1737416508530</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Solving Problem A from Contest 1703">
+      <option name="closed" value="true" />
+      <created>1737460432588</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1737460432588</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Solving Problem A from Contest 1692">
+      <option name="closed" value="true" />
+      <created>1737658334866</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1737658334866</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Solving Problem A from Contest 1512">
+      <option name="closed" value="true" />
+      <created>1737740889198</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1737740889198</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Solving Problem A from Contest 1669">
+      <option name="closed" value="true" />
+      <created>1737836742860</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1737836742860</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Solving Problem A from Contest 1669">
+      <option name="closed" value="true" />
+      <created>1737838742340</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1737838742340</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Solving Problem A from Contest 122">
+      <option name="closed" value="true" />
+      <created>1737936624098</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1737936624099</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Solving Problem A from Contest 703">
+      <option name="closed" value="true" />
+      <created>1738340990821</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1738340990821</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -300,7 +396,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="HEAD" />
+                        <option value="master" />
                       </list>
                     </value>
                   </entry>
@@ -326,7 +422,17 @@
     <MESSAGE value="Solving Problem A from Contest 58 A" />
     <MESSAGE value="Solving Problem A from Contest 133 A" />
     <MESSAGE value="Solving Problem A from Contest 208 A" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solving Problem A from Contest 208 A" />
+    <MESSAGE value="Solving Problem A from Contest 479 A" />
+    <MESSAGE value="Solving Problem A from Contest 1742 A" />
+    <MESSAGE value="Solving Problem A from Contest 155" />
+    <MESSAGE value="Solving Problem A from Contest 1676" />
+    <MESSAGE value="Solving Problem A from Contest 1703" />
+    <MESSAGE value="Solving Problem A from Contest 1692" />
+    <MESSAGE value="Solving Problem A from Contest 1512" />
+    <MESSAGE value="Solving Problem A from Contest 1669" />
+    <MESSAGE value="Solving Problem A from Contest 122" />
+    <MESSAGE value="Solving Problem A from Contest 703" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solving Problem A from Contest 703" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
